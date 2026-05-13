@@ -211,9 +211,9 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  opacity: 0.25;
+  opacity: 0.08;
   pointer-events: none;
-  filter: blur(2px) brightness(0.8);
+  filter: blur(1px) brightness(0.7);
 }
 
 /* Social Proof */
