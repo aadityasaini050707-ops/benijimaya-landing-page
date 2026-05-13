@@ -45,6 +45,7 @@ export default function App() {
 
       <div className="ambient-glow"></div>
       <div className="noise-overlay"></div>
+      <div className="bg-image"></div>
 
       {/* Navigation */}
       <nav className="navbar container">
@@ -86,11 +87,6 @@ export default function App() {
             <button className="btn-secondary">
               Book a Discovery Call
             </button>
-          </motion.div>
-
-          <motion.div variants={fadeUpVariant} className="hero-image-wrapper">
-            <div className="hero-image-glow"></div>
-            <img src="/hero-bg.png" alt="Benjimaya AI Core" className="hero-image" />
           </motion.div>
         </motion.div>
       </section>
