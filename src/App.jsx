@@ -48,7 +48,7 @@ export default function App() {
 
       {/* Navigation */}
       <nav className="navbar container">
-        <div className="logo">GEO<span className="logo-accent">.</span></div>
+        <div className="logo">Benjimaya<span className="logo-accent">.</span></div>
         <div className="nav-links">
           <a href="#services">Services</a>
           <a href="#about">About</a>
@@ -193,7 +193,7 @@ export default function App() {
       <footer className="footer container">
         <div className="footer-top">
           <div className="footer-brand">
-            <div className="logo">GEO<span className="logo-accent">.</span></div>
+            <div className="logo">Benjimaya<span className="logo-accent">.</span></div>
             <p className="footer-desc">Next-generation growth agency.</p>
           </div>
           <div className="footer-links">
@@ -212,7 +212,7 @@ export default function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© 2026 GEO Agency. All rights reserved.</p>
+          <p>© 2026 Benjimaya. All rights reserved.</p>
           <div className="legal-links">
             <a href="#">Privacy</a>
             <a href="#">Terms</a>
